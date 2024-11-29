@@ -1,0 +1,23 @@
+{
+  "name": "communication",
+  "version": "1.0.0",
+  "description": "Repository for all communication (messages, emails) from ACES.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACES-RMDSSOE/communication.git"
+  },
+  "author": "Madhur Jaripatke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACES-RMDSSOE/communication/issues"
+  },
+  "homepage": "https://github.com/ACES-RMDSSOE/communication#readme",
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "mailgun.js": "^10.2.4"
+  }
+}
